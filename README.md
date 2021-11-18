@@ -1,2 +1,0 @@
-# Renderpowersystems.in
-Renderpowersystems
